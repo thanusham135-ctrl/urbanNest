@@ -13,15 +13,15 @@
           <h2>Start your<br><em>dream home</em><br>today</h2>
           <p>Fill out the form — our team will reach out within 24 hours to schedule your free consultation and complimentary 3D room preview.</p>
 
-          <a href="tel:+919876543210" class="contact-card">
+          <a href="tel:+919731036845" class="contact-card">
             <div class="cc-icon">📞</div>
-            <div><div class="cc-label">Call Rajan Directly</div><div class="cc-val">+91 98765 43210</div></div>
+            <div><div class="cc-label">Call Shravan Directly</div><div class="cc-val">+91 98765 43210</div></div>
           </a>
           <a href="mailto:hello@elara.in" class="contact-card">
             <div class="cc-icon">✉️</div>
             <div><div class="cc-label">Email Us</div><div class="cc-val">hello@elara.in</div></div>
           </a>
-          <a href="https://wa.me/919876543210" class="contact-card" target="_blank">
+          <a href="https://wa.me/919731036845" class="contact-card" target="_blank">
             <div class="cc-icon">💬</div>
             <div><div class="cc-label">WhatsApp</div><div class="cc-val">Chat with us directly</div></div>
           </a>
@@ -40,11 +40,11 @@
             <div class="fb-title">Book a Free Consultation</div>
             <div class="fb-sub">No commitment · Free 3D preview · Response within 24 hours</div>
             <div class="form-grid">
-              <div><label class="form-label">Full Name *</label><input class="form-input" type="text" placeholder="Priya Sharma"/></div>
-              <div><label class="form-label">Phone *</label><input class="form-input" type="tel" placeholder="+91 98765 43210"/></div>
+              <div><label class="form-label">Full Name *</label><input class="form-input" type="text" placeholder="Shravan G Amin"/></div>
+              <div><label class="form-label">Phone *</label><input class="form-input" type="tel" placeholder="+91 97310 36845"/></div>
             </div>
             <div class="form-grid">
-              <div><label class="form-label">Email *</label><input class="form-input" type="email" placeholder="priya@email.com"/></div>
+              <div><label class="form-label">Email *</label><input class="form-input" type="email" placeholder="shravan@email.com"/></div>
               <div>
                 <label class="form-label">Package</label>
                 <select class="form-input">
