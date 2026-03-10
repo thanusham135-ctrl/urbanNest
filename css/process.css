@@ -1,0 +1,102 @@
+/* ─── PROCESS ─── */
+#process {
+  background: var(--walnut);
+  position: relative;
+  overflow: hidden;
+}
+#process::before {
+  content: 'ELARA';
+  position: absolute;
+  right: -60px; top: 50%;
+  transform: translateY(-50%);
+  font-family: 'Fraunces', serif;
+  font-size: 300px;
+  font-weight: 900;
+  -webkit-text-stroke: 1px rgba(201,168,76,.06);
+  color: transparent;
+  line-height: 1;
+  user-select: none;
+  pointer-events: none;
+}
+
+.process-intro {
+  max-width: 1280px;
+  margin: 0 auto 52px;
+  padding: 0 60px;
+}
+.process-intro .sec-badge { color: var(--gold-light); }
+.process-intro .sec-h2 { color: var(--ivory); }
+
+.process-grid {
+  display: flex;
+  gap: 3px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 60px;
+}
+
+.step {
+  flex: 1;
+  background: rgba(250,247,242,.05);
+  padding: 32px 24px;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(201,168,76,.08);
+  transition: all .4s;
+  cursor: default;
+}
+.step:first-child { border-radius: 20px 0 0 20px; }
+.step:last-child  { border-radius: 0 20px 20px 0; }
+.step:hover {
+  background: rgba(201,168,76,.1);
+  flex: 1.6;
+  border-color: rgba(201,168,76,.25);
+}
+.step:hover .step-title { color: var(--gold-light); }
+
+.step-ghost {
+  position: absolute;
+  top: -8px; right: -8px;
+  font-family: 'Fraunces', serif;
+  font-size: 100px;
+  font-weight: 900;
+  color: rgba(201,168,76,.04);
+  line-height: 1;
+  user-select: none;
+}
+.step-num {
+  font-size: 10px;
+  letter-spacing: .2em;
+  color: var(--gold);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+.step-num::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: rgba(201,168,76,.18);
+}
+.step-icon { font-size: 26px; margin-bottom: 12px; }
+.step-title {
+  font-family: 'Fraunces', serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--ivory);
+  margin-bottom: 6px;
+  transition: color .3s;
+}
+.step-day {
+  font-size: 10px;
+  color: var(--gold);
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.step-desc {
+  font-size: 12px;
+  color: rgba(250,247,242,.5);
+  line-height: 1.65;
+}

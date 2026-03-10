@@ -1,0 +1,36 @@
+/* ─── MARQUEE BAR ─── */
+.marquee-bar {
+  background: var(--walnut);
+  padding: 14px 0;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+  z-index: 1;
+}
+
+.marquee-track {
+  display: inline-flex;
+  gap: 0;
+  animation: march 28s linear infinite;
+}
+
+@keyframes march {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+.mi {
+  font-size: 13px;
+  font-weight: 300;
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  color: rgba(250,247,242,.5);
+  padding: 0 36px;
+  letter-spacing: .06em;
+}
+
+.mi .dot {
+  color: var(--gold);
+  font-style: normal;
+  margin-left: 36px;
+}
