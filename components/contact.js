@@ -15,11 +15,11 @@
 
           <a href="tel:+919731036845" class="contact-card">
             <div class="cc-icon">📞</div>
-            <div><div class="cc-label">Call Shravan Directly</div><div class="cc-val">+91 98765 43210</div></div>
+            <div><div class="cc-label">Call Shravan Directly</div><div class="cc-val">+91 97310 36845</div></div>
           </a>
-          <a href="mailto:hello@elara.in" class="contact-card">
+          <a href="mailto:shravangamin64@gmail.com" class="contact-card">
             <div class="cc-icon">✉️</div>
-            <div><div class="cc-label">Email Us</div><div class="cc-val">hello@elara.in</div></div>
+            <div><div class="cc-label">Email Us</div><div class="cc-val">shravangamin64@gmail.com</div></div>
           </a>
           <a href="https://wa.me/919731036845" class="contact-card" target="_blank">
             <div class="cc-icon">💬</div>

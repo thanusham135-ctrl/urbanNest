@@ -38,7 +38,7 @@
 
         <label class="form-label">Your Review</label>
         <textarea class="form-input" id="rev-body" rows="4"
-          placeholder="Tell us about your experience with ELARA..."></textarea>
+          placeholder="Tell us about your experience with URBAN NEST..."></textarea>
 
         <button class="submit-review" onclick="submitReview()">Submit Review ✦</button>
       </div>

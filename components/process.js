@@ -6,9 +6,8 @@
   const steps = [
     { num:'01', icon:'📞', title:'Free Consultation',   day:'Day 1',     desc:'We understand your vision, lifestyle, and budget. Zero pressure, full honesty.' },
     { num:'02', icon:'✏️', title:'3D Design Proposal',  day:'Day 3–5',   desc:'Full photorealistic 3D render of your home with transparent costing.' },
-    { num:'03', icon:'✍️', title:'Agreement & Approval',day:'Day 7',     desc:'Finalize design, sign contract. Milestone-based payments, no surprises.' },
-    { num:'04', icon:'🔨', title:'Execution',            day:'Day 8–40',  desc:'In-house team takes over. Daily photo updates — no site visits needed.' },
-    { num:'05', icon:'🔑', title:'Handover',             day:'Day 45',    desc:'50-point QC inspection. Warranty activated. Walk into your dream home.' },
+    { num:'03', icon:'🔨', title:'Execution',            day:'Day 8–40',  desc:'In-house team takes over. Daily photo updates — no site visits needed.' },
+    { num:'04', icon:'🔑', title:'Handover',             day:'Day 45',    desc:'50-point QC inspection. Warranty activated. Walk into your dream home.' },
   ];
 
   const cards = steps.map(s => `

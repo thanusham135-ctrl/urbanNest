@@ -8,7 +8,7 @@
       <div class="foot-grid">
         <div>
           <a href="#" class="foot-logo">EL<em>ARA</em></a>
-          <p class="foot-desc">Premium all-inclusive interior design for 2BHK and 3BHK homes. Crafting extraordinary spaces since 2012.</p>
+          <p class="foot-desc">Premium all-inclusive interior design for commercial and residential space interior designing homes. Crafting extraordinary spaces since 2012.</p>
           <div class="foot-socials">
             <a href="#" class="fsoc" aria-label="LinkedIn">in</a>
             <a href="#" class="fsoc" aria-label="YouTube">▶</a>

@@ -5,7 +5,7 @@
 
   const items = [
     'Modular Kitchens','Custom Wardrobes','False Ceilings',
-    'Smart Lighting','3D Visualization','10-Year Warranty',
+    'Smart Lighting','3D Visualization','INFINITY Warranty',
     '45-Day Delivery','Zero Hidden Costs'
   ];
 
