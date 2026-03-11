@@ -22,10 +22,10 @@
 
   const seedReviews = [
     { init:'PS', name:'Priya Sharma',         loc:'Bangalore, Karnataka', pkg:'3BHK Luxe',    date:'March 2025',    stars:5,
-      body:'ELARA transformed our apartment beyond our wildest expectations. The 3D visualization before execution gave us complete confidence. They delivered on day 43 — 2 days ahead of schedule. Every corner is perfect.',
+      body:'URBAN NEST transformed our apartment beyond our wildest expectations. The 3D visualization before execution gave us complete confidence. They delivered on day 43 — 2 days ahead of schedule. Every corner is perfect.',
       imgs:['photo-1600210492486-724fe5c67fb0','photo-1556909114-f6e7ad7d3136'], helpful:24 },
     { init:'RK', name:'Rajesh & Meena Kumar', loc:'Mumbai, Maharashtra',  pkg:'2BHK Luxe',    date:'February 2025', stars:5,
-      body:'Not a single hidden cost. Our designer Ananya was always available. The kitchen alone gets compliments from every single guest. Worth every rupee. Highly recommend the Luxe package!',
+      body:'Not a single hidden cost. Our designer Shravan was always available. The kitchen alone gets compliments from every single guest. Worth every rupee. Highly recommend the Luxe package!',
       imgs:[], helpful:18 },
     { init:'AM', name:'Arjun Mehta',           loc:'Pune, Maharashtra',    pkg:'2BHK Premium', date:'January 2025',  stars:5,
       body:'I travel constantly and needed a hassle-free experience. Weekly photo updates, zero site visits needed. Came back to a home that looked exactly like the 3D render. Extraordinary service.',

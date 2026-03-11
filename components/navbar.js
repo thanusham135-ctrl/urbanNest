@@ -5,7 +5,7 @@
 
   mount.innerHTML = `
     <nav id="nav">
-      <a href="#" class="logo">EL<span>ARA</span></a>
+      <a href="#" class="logo">URBAN<span>NEST</span></a>
       <ul class="nav-links">
         <li><a href="#about">Studio</a></li>
         <li><a href="#services">Services</a></li>
