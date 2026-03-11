@@ -12,8 +12,8 @@
         <div class="hero-tag">Inspired Interiors, Designed for Living</div>
         <h1 class="hero-h1">
           Elevate<br>
-          Your <span class="italic">Everyday</span><br>
-          <span class="outline">Space</span>
+          Your Everyday<br>
+          <span class=""italic"">Space.</span>
         </h1>
       </div>
       <div class="hero-middle">
