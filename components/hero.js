@@ -13,7 +13,7 @@
         <h1 class="hero-h1">
           Elevate<br>
           Your Everyday<br>
-          <span class=""italic"">Space.</span>
+          <span class="italic">Space.</span>
         </h1>
       </div>
       <div class="hero-middle">
