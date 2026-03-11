@@ -6,7 +6,7 @@
   mount.innerHTML = `
     <section id="hero">
       <div class="hero-bg">
-       <img src="images/hero-bg.jpg" alt="Luxury Interior"/>    
+       <img src="image/hero-bg.jpg" alt="Luxury Interior"/>    
       </div>
       <div class="hero-inner">
         <div class="hero-tag">Inspired Interiors, Designed for Living</div>
