@@ -10,10 +10,11 @@
           <a href="#" class="foot-logo">URBAN<span>NEST</span></a>
           <p class="foot-desc">Premium all-inclusive interior design for commercial and residential space interior designing homes. Crafting extraordinary spaces since 2012.</p>
           <div class="foot-socials">
-            <a href="#" class="fsoc" aria-label="LinkedIn">in</a>
-            <a href="#" class="fsoc" aria-label="YouTube">▶</a>
-            <a href="#" class="fsoc" aria-label="Instagram">ig</a>
-            <a href="#" class="fsoc" aria-label="Facebook">f</a>
+            <div class="foot-socials">
+  
+          <a href="https://www.instagram.com/urbannest_studio/" target="_blank" class="fsoc" aria-label="Instagram">ig</a>
+          
+            </div>
           </div>
         </div>
         <div class="foot-col">
