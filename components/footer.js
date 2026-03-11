@@ -7,7 +7,7 @@
     <footer>
       <div class="foot-grid">
         <div>
-          <a href="#" class="foot-logo">EL<em>ARA</em></a>
+          <a href="#" class="foot-logo">URBAN<span>NEST</span></a>
           <p class="foot-desc">Premium all-inclusive interior design for commercial and residential space interior designing homes. Crafting extraordinary spaces since 2012.</p>
           <div class="foot-socials">
             <a href="#" class="fsoc" aria-label="LinkedIn">in</a>
@@ -43,7 +43,7 @@
         </div>
       </div>
       <div class="foot-bottom">
-        <p>© 2025 ELARA Interiors. All rights reserved.</p>
+        <p>© 2025 URBAN NEST Studios. All rights reserved.</p>
         <div class="foot-cities">
           <span class="fcity">Bangalore</span>
           <span class="fcity">Mumbai</span>
