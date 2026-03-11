@@ -23,7 +23,6 @@
           <p class="sec-p">For over 12 years, URBAN NEST has transformed ordinary apartments into extraordinary sanctuaries. We believe your home should be a perfect expression of who you are.</p>
           <p class="sec-p">Our all-inclusive packages eliminate every stress of coordinating multiple vendors — from modular kitchens to custom wardrobes, we handle everything with total transparency.</p>
           <div class="about-features">
-            <div class="af"><div class="af-icon">🏆</div><div class="af-title">Award-Winning Designs</div><div class="af-desc">Recognized by Architectural Digest India 2023</div></div>
             <div class="af"><div class="af-icon">👤</div><div class="af-title">Your Own Designer</div><div class="af-desc">Dedicated lead designer from concept to handover</div></div>
             <div class="af"><div class="af-icon">🔨</div><div class="af-title">Precision Execution</div><div class="af-desc">In-house certified craftsmen, 50-point QC</div></div>
             <div class="af"><div class="af-icon">🛡</div><div class="af-title">10-Year Guarantee</div><div class="af-desc">Every detail warranted, defects fixed for free</div></div>
