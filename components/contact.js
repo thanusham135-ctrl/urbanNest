@@ -81,12 +81,38 @@
     </section>
   `;
 
-  document.getElementById('submit-contact').addEventListener('click', function () {
-    this.innerHTML = '<div class="spinner"></div> Sending...';
-    this.disabled  = true;
-    setTimeout(() => {
-      document.getElementById('mainForm').style.display           = 'none';
-      document.getElementById('contact-success').style.display    = 'block';
-    }, 1800);
-  });
+  document.getElementById('submit-contact').addEventListener('click', async function () {
+
+  this.innerHTML = '<div class="spinner"></div> Sending...';
+  this.disabled  = true;
+
+  // Get values
+  const name = document.getElementById('name').value;
+  const phone = document.getElementById('phone').value;
+  const email = document.getElementById('email').value;
+  const pkg = document.getElementById('package').value;
+  const budget = document.getElementById('budget').value;
+  const message = document.getElementById('message').value;
+
+  // Send to Supabase
+  const { data, error } = await supabaseClient
+    .from("inquiries")
+    .insert([{
+      name: name,
+      email: email,
+      message: message + " | Phone: " + phone + " | Package: " + pkg + " | Budget: " + budget
+    }]);
+
+  if (error) {
+    console.error(error);
+    alert("❌ Error saving data");
+    this.innerHTML = "Book Free Consultation →";
+    this.disabled = false;
+  } else {
+    // Success UI
+    document.getElementById('mainForm').style.display = 'none';
+    document.getElementById('contact-success').style.display = 'block';
+  }
+
+});
 })();
